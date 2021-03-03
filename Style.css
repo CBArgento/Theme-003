@@ -30,7 +30,7 @@ body, html {
 /*Paralax*/
 .parallax {
     /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: url("Resources/Imgs/friends.jpg");
   
     /* Set a specific height */
     min-height: 500px;
@@ -40,4 +40,14 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+  /*Sections*/
+
+  .secttitles {
+      text-align: center;
+  }
+
+  .divider {
+      padding: 20px;
   }
