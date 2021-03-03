@@ -55,6 +55,18 @@ body, html {
     text-align: center;  
   }
 
+  .bgimg-4 {
+    background-image: url("Resources/Imgs/family.jpg");
+    min-height: 400px;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;  
+  }
+
   .caption {
     position: absolute;
     left: 0;
