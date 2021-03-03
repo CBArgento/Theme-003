@@ -30,7 +30,7 @@ body, html {
 /*Paralax*/
 .parallax {
     /* The image used */
-    background-image: url("Resources/Imgs/friends.jpg");
+    
   
     /* Set a specific height */
     min-height: 500px;
@@ -40,6 +40,28 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+
+.bgimg-3 {
+    background-image: url("Resources/Imgs/friends.jpg");
+    min-height: 400px;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;  
+  }
+
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
   }
 
   /*Sections*/
@@ -61,3 +83,4 @@ body, html {
   .card {
       text-align: center;
   }
+
