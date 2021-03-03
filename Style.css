@@ -57,7 +57,7 @@ body, html {
 
   .bgimg-4 {
     background-image: url("Resources/Imgs/friends1.jpg");
-    min-height: 600px;
+    min-height: 700px;
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
