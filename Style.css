@@ -96,3 +96,16 @@ body, html {
       text-align: center;
   }
 
+
+  .rate {
+      text-align: center;
+      color: white;
+      background-color: teal;
+      padding: 20px;
+  }
+
+
+  #flagicon {
+      width: 55px;
+      height: 48px;
+  }
