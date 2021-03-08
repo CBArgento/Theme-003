@@ -111,6 +111,10 @@ body, html {
   }
 
   #Section1 {
+    background-color: white;
+}
+
+#Section2 {
     background-color: #fff7ea;
 }
 
@@ -123,6 +127,6 @@ body, html {
   }
 
   #Section6 {
-      background-color: #517ead;
-      color: white;
+      background-color: #E7FFE7;
+      color: black;
   }
