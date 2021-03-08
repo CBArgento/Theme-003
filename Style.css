@@ -110,10 +110,19 @@ body, html {
       height: 48px;
   }
 
+  #Section1 {
+    background-color: #fff7ea;
+}
+
   #Section4 {
       background-color: #f8f9fa;
   }
 
   #Section5 {
       background-color: #fff7ea;
+  }
+
+  #Section6 {
+      background-color: #517ead;
+      color: white;
   }
