@@ -130,3 +130,8 @@ body, html {
       background-color: #E7FFE7;
       color: black;
   }
+
+  #iconpic1 {
+    width: 120px;
+    height: 120px;
+  }
